@@ -1,0 +1,58 @@
+.App {
+  background-color: #eee;
+  text-align: center;
+  height: 100%;
+}
+
+.title-bar {
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+
+.title-bar div {
+  font-weight: bold;
+}
+
+.row-title {
+  text-align: left;
+  font-weight: bold;
+  display: flex;
+  justify-content: space-around;
+}
+
+.row-title div {
+  width: 25%;
+}
+
+.address-bar {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 40px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.address-bar div {
+  text-align: left;
+  width: 50%;
+}
+
+.customer-details {
+  margin: 20px;
+}
+
+.customer-row {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px 0;
+  cursor: pointer;
+}
+
+.customer-row:hover {
+  background-color: #ccc;
+}
+
+.customer-row div {
+  text-align: left;
+  width: 25%;
+}

@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "customerId": 123123123,
+      "customerName": "John Doe",
+      "customerAge": "39",
+      "customerSex": "Male"
+    },
+    {
+      "customerId": 123112323,
+      "customerName": "Mary Jane",
+      "customerAge": "32",
+      "customerSex": "Female"
+    },
+    {
+      "customerId": 121233323,
+      "customerName": "Robert Langdon",
+      "customerAge": "42",
+      "customerSex": "Male"
+    },
+    {
+      "customerId": 432123123,
+      "customerName": "Kristy Smith",
+      "customerAge": "32",
+      "customerSex": "Female"
+    }
+  ]
+}

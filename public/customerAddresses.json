@@ -1,0 +1,22 @@
+{
+  "addresses": {
+    "123123123": [
+      "8289 Fox River Street, Palo Alto, 123123",
+      "321 Marylin Avenue, Santa Clara, 233155",
+      "532 Washington Street, New Jersey, 877282"
+    ],
+    "123112323": [
+      "535 Pen Avenue, San Jose, 123123",
+      "346 California Street, Sunnyvale, 123123"
+    ],
+    "121233323": [
+      "8766 Morgan Avenue, Sacramento, 123123",
+      "3222 Atlana Street, Redwood City, 123123",
+      "7658 Lombard Street, San Francisco, 123123",
+      "9823 Middleton Street, Sunnyvale, 123123"
+    ],
+    "432123123": [
+      "1287 New Columbia Street, Mountain View, 123123"
+    ]
+  }
+}
